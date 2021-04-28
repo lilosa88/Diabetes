@@ -69,10 +69,10 @@ In order to understand what influence the diabetes rate we took a look at the re
   <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2012.04.16.png" width="360" height="280">
  </p>
  
- 4. How does Polydipsia influence the survival rate
+ 5. How does Sudden weight loss influence the survival rate
 
 <p align="center">
-  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2012.00.41.png" width="360" height="280">
+  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2012.46.35.png" width="360" height="280">
  </p>
  
 3. How does Polyuria influence the diabetes
