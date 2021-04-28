@@ -158,4 +158,27 @@ This dataset did not have any missing values
 
 We convert the gender column into two columns with binary values (1 and 0), using dummy variables
 
+# Machine Learning Models
 
+### ML that does not need normalization
+- Random Forest
+ 
+ Train Random Forest's Accuracy:  0.9471
+ 
+ Test Random Forest's Accuracy:  0.9326
+ 
+### ML that need normalization
+- Logistic Regression
+ 
+ Train Logistic Regresion's Accuracy:  0.8846
+ 
+ Test Logistic Regresion's Accuracy:  0.8846
+ 
+- KNN
+ 
+ Train KNN's Accuracy:  0.98076
+ 
+ Test KNN's Accuracy:  0.9711
+ 
+
+Conclusion:  The best accuracy was obtained with KNN.
