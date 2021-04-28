@@ -147,3 +147,15 @@ Conclusion: Except for the features itching and delayed healing, the rest of the
 -Polyuria: If the pacient present an excessive or an abnormally large production or passage of urine then is more prone to get diabetes.
 -Polydipsia: If the pacient present an excessive thirst or excess drinking is more prone to get diabetes.
 -Polyphagia:  If the pacient present an feels an abnormally strong sensation of hunger or desire to eat often leading to or accompanied by overeating is more prone to get diabetes.
+
+# Feature Engineering 
+
+### Missing values
+
+This dataset did not have any missing values
+
+### Convert categorical variables
+
+We convert the gender column into two columns with binary values (1 and 0), using dummy variables
+
+
