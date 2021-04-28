@@ -2,7 +2,7 @@
 
 # Objective
 
-This has been collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by a doctor. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient. This dataset is obtained from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.). The objective is to build a predictive model that predicts if a pacient is prone to be diabetic or not using the dataset. 
+Dataset is obtained from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.).This has been collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by a doctor. This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient. The objective is to build a predictive model that predicts if a pacient is prone to be diabetic or not using the dataset. 
 
 # Code and Resources Used
 
@@ -181,4 +181,4 @@ We convert the gender column into two columns with binary values (1 and 0), usin
  Test KNN's Accuracy:  0.9711
  
 
-Conclusion:  The best accuracy was obtained with KNN.
+Conclusion:  The best accuracy was obtained with KNN. 
