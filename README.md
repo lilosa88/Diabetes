@@ -142,4 +142,8 @@ In order to understand what influence the diabetes rate we took a look at the re
   <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.22.05.png" width="360" height="280">
  </p>
  
-
+Conclusion: Except for the features itching and delayed healing, the rest of the features has an influence on the diabetes rate. Specificately the once that has more influence are:
+-Gender: Women are more prone to get diabetes.
+-Polyuria: If the pacient present an excessive or an abnormally large production or passage of urine then is more prone to get diabetes.
+-Polydipsia: If the pacient present an excessive thirst or excess drinking is more prone to get diabetes.
+-Polyphagia:  If the pacient present an feels an abnormally strong sensation of hunger or desire to eat often leading to or accompanied by overeating is more prone to get diabetes.
