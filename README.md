@@ -117,10 +117,10 @@ In order to understand what influence the diabetes rate we took a look at the re
   <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.07.27.png" width="360" height="280">
  </p>
  
-9. How does Visual blurring influence the survival rate
+9. How does Partial paresis influence the survival rate
 
 <p align="center">
-  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.07.27.png" width="360" height="280">
+  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.07.55.png" width="360" height="280">
  </p>
  
 10. How does Itching influence the survival rate
