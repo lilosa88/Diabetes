@@ -133,7 +133,7 @@ In order to understand what influence the diabetes rate we took a look at the re
 15. How does Alopecia influence the survival rate
 
 <p align="center">
-  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.08.30.png" width="360" height="280">
+  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2013.09.17.png" width="360" height="280">
  </p>
  
 
