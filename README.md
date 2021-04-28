@@ -41,4 +41,15 @@ In order to understand what influence the diabetes rate we took a look at the re
  </p>
 
 
+   - For old people (Age > 60 years old) : The rate of survival is 0.6947
+   
+  |   Sex   | Survival Rate |
+  | ------- |:-------------:|
+  |  female |     0.965517  |
+  |   male  |     0.575758  |  
+
+
+   - For young people (Age <= 20 years old) : There was only one pacient with this age, then we don't have enough statistics to make this analysis.
+
+2. How does the sex influence the survival rate
 
