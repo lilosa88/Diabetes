@@ -60,7 +60,7 @@ In order to understand what influence the diabetes rate we took a look at the re
 3. How does the sex influence the survival rate
 
 <p align="center">
-  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2011.03.29.png" width="360" height="280">
+  <img src="https://github.com/lilosa88/Diabetes/blob/main/images/Captura%20de%20Pantalla%202021-04-28%20a%20la(s)%2012.03.29.png" width="360" height="280">
  </p>
  
  4. How does the sex influence the survival rate
